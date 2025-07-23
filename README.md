@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋 I'm Sreekar Mamidipaka
 
-<!--
-**sreekar7586/sreekar7586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student of life** | Developer | Web Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Passionate developer with a knack for building scalable web applications.
+- Always exploring new technologies—especially in Python, React, and Kubernetes.
+- I can code at anytime—creativity never sleeps!
+
+---
+
+## 🛠️ Top Skills
+
+- **Web Development** (front & back-end)
+- **Python**
+- **React**
+- **Kubernetes**
+
+---
+
+## 🌟 Featured Projects
+
+- [Dare Drive](#)  
+  *An innovative project pushing boundaries in tech.*
+
+- [Gym Responsive Website](#)  
+  *A modern, user-friendly site for fitness enthusiasts.*
+
+---
+
+## 📬 Connect with Me
+
+- [LinkedIn: sreekar-mamidipaka-327401297](https://www.linkedin.com/in/sreekar-mamidipaka-327401297/)
+
+---
+
+## ⚡ Fun Fact
+
+I can code at anytime—just give me a keyboard and a challenge!
+
+---
+
+![Sreekar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreekar7586&show_icons=true&theme=radical)
